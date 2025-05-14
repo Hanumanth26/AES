@@ -1,6 +1,6 @@
 ## EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
-### NAME:GEDIPUDI DARSHANI
-### REGISTER NUMBER:212223230062
+### NAME:hanumanth rao
+### REGISTER NUMBER:212222240016
 ## Aim:
 
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
